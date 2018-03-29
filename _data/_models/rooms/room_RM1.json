@@ -1,0 +1,211 @@
+{
+  "name_localized": {
+    "en": "Apartment, 2 Bedrooms, Terrace (check-in location Santa Croce 515)",
+    "es": "Apartment, 2 Bedrooms, Terrace (check-in location Santa Croce 515)"
+  },
+  "short_description_localized": {
+    "en": "Apartment, 2 Bedrooms, Terrace (check-in location Santa Croce 515)",
+    "es": "Apartment, 2 Bedrooms, Terrace (check-in location Santa Croce 515)"
+  },
+  "description_localized": {
+    "en": "<strong>1 King Bed, 2 Twin Beds and 1 Double Sofa Bed</strong><br />861-sq-foot (80-sq-meter) room, balcony with city views<br /><br /><b>Club/Executive Level</b> - Separate check-in location<br /><b>Layout</b> - 2 bedrooms, dining area, and sitting area<br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 40-inch TV<br /><b>Food & Drink</b> - Kitchenette with refrigerator, stovetop, oven, and microwave<br /><b>Sleep</b> - Frette Italian linens, a down duvet, and blackout drapes/curtains <br /><b>Bathroom</b> - 2 bathrooms, bathtub or shower, and rainfall showerhead<br /><b>Practical</b> - Iron/ironing board; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and heating<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking, renovated in December 2016<br />&nbsp;",
+    "es": "<strong>1 King Bed, 2 Twin Beds and 1 Double Sofa Bed</strong><br />861-sq-foot (80-sq-meter) room, balcony with city views<br /><br /><b>Club/Executive Level</b> - Separate check-in location<br /><b>Layout</b> - 2 bedrooms, dining area, and sitting area<br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 40-inch TV<br /><b>Food & Drink</b> - Kitchenette with refrigerator, stovetop, oven, and microwave<br /><b>Sleep</b> - Frette Italian linens, a down duvet, and blackout drapes/curtains <br /><b>Bathroom</b> - 2 bathrooms, bathtub or shower, and rainfall showerhead<br /><b>Practical</b> - Iron/ironing board; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and heating<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking, renovated in December 2016<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathtub or shower"
+      },
+      {
+        "name": "Bidet"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cookware, dishware, and utensils"
+      },
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Dishwasher"
+      },
+      {
+        "name": "Down comforter"
+      },
+      {
+        "name": "Electric kettle"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Full-sized refrigerator/freezer"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Heating"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Kitchenette"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Linens provided"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Oven"
+      },
+      {
+        "name": "Premium bedding"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rainfall showerhead"
+      },
+      {
+        "name": "Second bathroom"
+      },
+      {
+        "name": "Separate dining area"
+      },
+      {
+        "name": "Separate sitting area"
+      },
+      {
+        "name": "Stovetop"
+      },
+      {
+        "name": "Television"
+      },
+      {
+        "name": "Towels provided"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathtub or shower"
+      },
+      {
+        "name": "Bidet"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cookware, dishware, and utensils"
+      },
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Dishwasher"
+      },
+      {
+        "name": "Down comforter"
+      },
+      {
+        "name": "Electric kettle"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Full-sized refrigerator/freezer"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Heating"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Kitchenette"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Linens provided"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Oven"
+      },
+      {
+        "name": "Premium bedding"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rainfall showerhead"
+      },
+      {
+        "name": "Second bathroom"
+      },
+      {
+        "name": "Separate dining area"
+      },
+      {
+        "name": "Separate sitting area"
+      },
+      {
+        "name": "Stovetop"
+      },
+      {
+        "name": "Television"
+      },
+      {
+        "name": "Towels provided"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM1",
+  "order": 1
+}
